@@ -1,0 +1,13 @@
+__pycache__
+.idea/
+.pytest_cache
+tests/allure/
+*.pyc
+*.pyo
+*.retry
+*.log
+.cache
+.merged.requirements.txt
+.DS_Store
+.report.json
+venv
